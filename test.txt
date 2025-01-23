@@ -2,5 +2,4 @@ First commit
 Second Commit
 Third Commit
 
-
-This is happening in Master branch
+These change are correct and are made in QA branch
